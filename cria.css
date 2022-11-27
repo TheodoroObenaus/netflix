@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+
+body{
+    background-color: black;
+}
+
+h1{
+    color: red;
+}
+
+.texto {
+    font-size: 45px;
+    font-family: 'Silkscreen', cursive;
+}
+.titulo {
+    font-size: 50px;
+    font-family: 'Silkscreen', cursive;
+}
+
+.cor1 {
+    background-color: red;
+}
+
+.navbar {
+    font-family: 'Silkscreen', cursive;
+}
